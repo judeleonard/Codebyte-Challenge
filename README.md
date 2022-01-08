@@ -1,2 +1,2 @@
 # Codebyte-Challenge
-This repository contains all my submitted solutions for Codebyte challenge
+This repository contains all my submitted solutions for Coderbyte algorithm challenge
